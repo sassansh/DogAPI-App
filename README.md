@@ -21,7 +21,7 @@
 [![GitHub license](https://img.shields.io/github/license/sassansh/DogAPI-App?style=for-the-badge)](https://github.com/sassansh/DogAPI-App/blob/main/LICENSE)
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-[![Site preview](/public/social-image.png)](https://sassanshokoohi.ca/DogAPI-App/)
+[![Site preview](/public/reddit-preview.jpeg)](https://sassanshokoohi.ca/DogAPI-App/)
 
 ## Table of Contents
 
