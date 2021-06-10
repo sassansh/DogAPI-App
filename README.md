@@ -2,7 +2,7 @@
 <br />
 <p align="center">
  <a href="https://github.com/sassansh/DogAPI-App">
-    <img src="/public/redditlogo.ico" alt="Logo" width="80" height="80">
+    <img src="/public/redditlogo.png" alt="Logo" width="80" height="80">
   </a>
   <h2 align="center">DogAPI App ✨</h2>
 
@@ -21,7 +21,7 @@
 [![GitHub license](https://img.shields.io/github/license/sassansh/DogAPI-App?style=for-the-badge)](https://github.com/sassansh/DogAPI-App/blob/main/LICENSE)
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-[![Site preview](/public/reddit-preview.png)](https://sassanshokoohi.ca/DogAPI-App/)
+[![Site preview](/public/social-image.png)](https://sassanshokoohi.ca/DogAPI-App/)
 
 ## Table of Contents
 
