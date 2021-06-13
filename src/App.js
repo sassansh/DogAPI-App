@@ -30,17 +30,10 @@ function App() {
   }
 
   useEffect(() => {
-    setLoading(true);
-    axios
-      .get(`https://api.thedogapi.com/v1/images/search`)
-      .then((res) => {
-        const newDogs = res.data;
-        setDogs(newDogs);
-      })
-      .finally(() => {
-        sleep(500);
-        setLoading(false);
-      });
+    axios.get(`https://api.thedogapi.com/v1/images/search`).then((res) => {
+      const newDogs = res.data;
+      setDogs(newDogs);
+    });
   }, []);
 
   useEffect(() => {
