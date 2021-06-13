@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/DogAPI-App/static/css/main.018804c8.chunk.css",
-    "main.js": "/DogAPI-App/static/js/main.17fd540e.chunk.js",
-    "main.js.map": "/DogAPI-App/static/js/main.17fd540e.chunk.js.map",
+    "main.js": "/DogAPI-App/static/js/main.ffe4f740.chunk.js",
+    "main.js.map": "/DogAPI-App/static/js/main.ffe4f740.chunk.js.map",
     "runtime-main.js": "/DogAPI-App/static/js/runtime-main.bbef4d46.js",
     "runtime-main.js.map": "/DogAPI-App/static/js/runtime-main.bbef4d46.js.map",
     "static/js/2.922038fc.chunk.js": "/DogAPI-App/static/js/2.922038fc.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.bbef4d46.js",
     "static/js/2.922038fc.chunk.js",
     "static/css/main.018804c8.chunk.css",
-    "static/js/main.17fd540e.chunk.js"
+    "static/js/main.ffe4f740.chunk.js"
   ]
 }
